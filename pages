@@ -1,0 +1,1 @@
+gh api -X POST repos/lucascolari/santal-perfumery/pages -f "source[branch]=main" -f "source[path]=/"
